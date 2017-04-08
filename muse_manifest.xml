@@ -1,0 +1,89 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.AnalyticResolution.com" resolutions="1x" timestamp="1491615150049">
+  <folder name="css">
+    <file name="site_global.css" crc="4187010910"/>
+    <file name="master_b-master.css" crc="3942499640" ref="index"/>
+    <file name="master_a-master.css" crc="3927063650" ref="test-methodology:performance-testing:contact-us:test-tools-copy"/>
+    <file name="test-methodology.css" crc="482076196" ref="test-methodology"/>
+    <file name="website-testing.css" crc="3912895467" ref="website-testing"/>
+    <file name="test-artefacts.css" crc="4128554420" ref="test-artefacts"/>
+    <file name="performance-testing.css" crc="4049117204" ref="performance-testing"/>
+    <file name="test-maturity.css" crc="332162831" ref="test-maturity"/>
+    <file name="contact-us.css" crc="292431782" ref="contact-us"/>
+    <file name="index.css" crc="3802435169" ref="index"/>
+    <file name="test-tools.css" crc="526187503" ref="test-tools"/>
+    <file name="it-quality-assurance-services.css" crc="4229774580" ref="it-quality-assurance-services"/>
+    <file name="test-tools-copy.css" crc="4218583160" ref="test-tools-copy"/>
+    <file name="master_second-level-white.css" crc="102588823" ref="test-artefacts:test-tools:test-maturity"/>
+    <file name="master_second-level-black.css" crc="4174974905" ref="website-testing"/>
+    <file name="master_top-level.css" crc="138160818" ref="it-quality-assurance-services"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contact-us:performance-testing:test-artefacts:test-methodology:test-maturity:website-testing:it-quality-assurance-services:test-tools:test-tools-copy"/>
+    <file name="museutils.js" crc="4148063285" ref="index:contact-us:performance-testing:test-artefacts:test-methodology:test-maturity:website-testing:it-quality-assurance-services:test-tools:test-tools-copy"/>
+    <file name="whatinput.js" crc="86476730" ref="index:contact-us:performance-testing:test-artefacts:test-methodology:test-maturity:website-testing:it-quality-assurance-services:test-tools:test-tools-copy"/>
+    <file name="museconfig.js" crc="4179431180" ref="index:contact-us:performance-testing:test-artefacts:test-methodology:test-maturity:website-testing:it-quality-assurance-services:test-tools:test-tools-copy"/>
+    <file name="webpro.js" crc="3986320349" ref="index"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="index"/>
+    <file name="touchswipe.js" crc="221459597" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index:contact-us:performance-testing:test-artefacts:test-methodology:test-maturity:website-testing:it-quality-assurance-services:test-tools:test-tools-copy"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:contact-us:performance-testing:test-artefacts:test-methodology:test-maturity:website-testing:it-quality-assurance-services:test-tools:test-tools-copy"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:contact-us:performance-testing:test-artefacts:test-methodology:test-maturity:website-testing:it-quality-assurance-services:test-tools:test-tools-copy"/>
+    <file name="require.js" crc="4159430777" ref="index:contact-us:performance-testing:test-artefacts:test-methodology:test-maturity:website-testing:it-quality-assurance-services:test-tools:test-tools-copy"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="contact-us:performance-testing:test-artefacts:test-methodology:test-maturity:website-testing:it-quality-assurance-services:test-tools:test-tools-copy"/>
+    <file name="jquery.scrolleffects.js" crc="3801019579" ref="contact-us:performance-testing:test-artefacts:test-methodology:test-maturity:website-testing:it-quality-assurance-services:test-tools:test-tools-copy"/>
+  </folder>
+  <folder name="images">
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="img_9178_001_001.jpg" crc="43471484" ref="test-tools:test-tools-copy"/>
+    <file name="img_9153_001_002.jpg" crc="95285868" seo="true" ref="index"/>
+    <file name="img_9222_001_001.jpg" crc="397336617" seo="true" ref="index"/>
+    <file name="social_06_linkedin-u5997.png" crc="4004337111" ref="index"/>
+    <file name="social_00_facebook-u6505.png" crc="4031347791" ref="index"/>
+    <file name="social_01_twitter-u5999.png" crc="3780634330" ref="index"/>
+    <file name="social_06_linkedin-u2230.png" crc="4004337111" ref="contact-us:performance-testing:test-methodology:test-tools-copy"/>
+    <file name="social_00_facebook-u6491.png" crc="4031347791" ref="contact-us:performance-testing:test-methodology:test-tools-copy"/>
+    <file name="social_01_twitter-u2228.png" crc="3780634330" ref="contact-us:performance-testing:test-methodology:test-tools-copy"/>
+    <file name="pexels-photo.jpg" crc="223974432" ref="contact-us"/>
+    <file name="img_9178_001_0011160x570.jpg" crc="3898156456" seo="true" ref="index"/>
+    <file name="img_9251_001_001.jpg" crc="4151857317" ref="it-quality-assurance-services"/>
+    <file name="img_9259_001_002.jpg" crc="4213664202" ref="website-testing"/>
+    <file name="img_9222_003_001.jpg" crc="4236100830" ref="performance-testing"/>
+    <file name="img_9248_001_001.jpg" crc="4166307844" ref="test-artefacts"/>
+    <file name="img_9186_002_001.jpg" crc="485673026" ref="test-maturity"/>
+    <file name="board-meeting.jpg" crc="190754682" seo="true" ref="it-quality-assurance-services"/>
+    <file name="remote-access.jpg" crc="4151523686" seo="true" ref="it-quality-assurance-services"/>
+    <file name="underwriting-requirement.png" crc="432012026" seo="true" ref="it-quality-assurance-services"/>
+    <file name="document.jpg" crc="109413017" seo="true" ref="it-quality-assurance-services:test-artefacts"/>
+    <file name="remote_support (1).jpg" crc="4294262752" seo="true" ref="it-quality-assurance-services"/>
+    <file name="img_9248_001_0012.jpg" crc="4166307844" ref="test-methodology"/>
+    <file name="maturity levels3.jpg" crc="234873503" seo="true" ref="test-maturity"/>
+    <file name="tmmi level_01.jpg" crc="488049449" seo="true" ref="test-maturity"/>
+    <file name="siteavailability_03.jpg" crc="4238108009" seo="true" ref="website-testing"/>
+    <file name="weblog-test.jpg" crc="4247349943" seo="true" ref="test-tools:test-tools-copy"/>
+    <file name="automated-testing (1).png" crc="169096574" seo="true" ref="test-tools:test-tools-copy"/>
+    <file name="soapui-bysb-logo.png" crc="94438329" seo="true" ref="test-tools:test-tools-copy"/>
+    <file name="seleniumlogo.png" crc="4043825155" seo="true" ref="test-tools:test-tools-copy"/>
+    <file name="social_06_linkedin-u8460.png" crc="4004337111" ref="test-artefacts:test-maturity:test-tools"/>
+    <file name="social_00_facebook-u8436.png" crc="4031347791" ref="test-artefacts:test-maturity:test-tools"/>
+    <file name="social_01_twitter-u8457.png" crc="3780634330" ref="test-artefacts:test-maturity:test-tools"/>
+    <file name="social_06_linkedin-u8946.png" crc="4004337111" ref="website-testing"/>
+    <file name="social_00_facebook-u9050.png" crc="4031347791" ref="website-testing"/>
+    <file name="social_01_twitter-u8951.png" crc="3780634330" ref="website-testing"/>
+    <file name="social_06_linkedin-u8364.png" crc="4004337111" ref="it-quality-assurance-services"/>
+    <file name="social_00_facebook-u8372.png" crc="4031347791" ref="it-quality-assurance-services"/>
+    <file name="social_01_twitter-u8366.png" crc="3780634330" ref="it-quality-assurance-services"/>
+    <file name="qa_stamp.jpg" crc="3951782272" seo="true" ref="test-artefacts"/>
+  </folder>
+  <file name="index.html" crc="236663665" seo="true" mt="1491613581847" redirect="true"/>
+  <file name="contact-us.html" crc="119882795" seo="true" mt="1491611978330" redirect="true"/>
+  <file name="performance-testing.html" crc="425221402" seo="true" mt="1491611978330" redirect="true"/>
+  <file name="test-artefacts.html" crc="361508940" seo="true" mt="1491615141096" redirect="true"/>
+  <file name="test-methodology.html" crc="17651643" seo="true" mt="1491611978330" redirect="true"/>
+  <file name="test-maturity.html" crc="46639453" seo="true" mt="1491614134921" redirect="true"/>
+  <file name="website-testing.html" crc="4015883938" seo="true" mt="1491614145120" redirect="true"/>
+  <file name="it-quality-assurance-services.html" crc="234072281" seo="true" mt="1491614618100" redirect="true"/>
+  <file name="test-tools.html" crc="3845319304" seo="true" mt="1491614311284" redirect="true"/>
+  <file name="test-tools-copy.html" crc="4070676182" seo="true" mt="1491611978330" redirect="true"/>
+</manifest>
